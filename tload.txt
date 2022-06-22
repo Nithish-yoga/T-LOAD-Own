@@ -2,6 +2,6 @@ echo -e "\e[96m"
 echo " "
 date
 echo " "
-echo "                      "⚡ 127.0.0.1 ⚡
+echo "                      "⚡ There is no place like 127.0.0.4 ⚡
 echo " "
 echo -e "\e[32m"
